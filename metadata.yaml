@@ -1,0 +1,42 @@
+_repo: Newer-ideals-of-peace_69879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Addams, Jane
+    alias: Addams, Laura Jane
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '602'
+    url: http://www.gutenberg.org/2009/agents/602
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Addams
+description: ''
+gutenberg_issued: '2023-01-25'
+identifiers:
+  gutenberg: '69879'
+language: en
+pgterms:marc904: https://archive.org/details/neweridealsofpea00adda
+pgterms:marc905: 20211211161456addams
+pgterms:marc906: '1906'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United States: The Macmillan Company,1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The citizen's library of economics, politics, and sociology
+subjects:
+- !lcsh 'Peace'
+- !lcsh 'Working class -- United States'
+- !lcsh 'Municipal government -- United States'
+- !lcsh 'Social justice'
+- !lcsh 'Political participation -- United States'
+- !lcc 'HN'
+- GITenberg
+tableOfContents: Introduction -- Survivals of militarism in city government -- Failure
+  to utilize immigrants in city government -- Militarism and industrial legislation
+  -- Group morality in the labor movement -- Protection of children for industrial
+  efficiency -- Utilization of women in city government -- Passing of the war virtues.
+title: Newer ideals of peace
+url: http://www.gutenberg.org/ebooks/69879
